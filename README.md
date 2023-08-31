@@ -22,5 +22,17 @@ The Shape Database Processor is an interactive Python application designed to re
 4. Place your shape database text file in the same directory.
 5. Open your terminal and run the following command:
 
+## Demonstrates
+* Command Line Interface (CLI) interaction.
+* Input validation and error handling.
+* Object-oriented programming (OOP) concepts.
+* Reading and processing text files.
+* Working with multiple classes and inheritance.
+
+## Note
+* The shape database text file should follow the specified format.
+* The program provides informative messages for processing and interaction.
+* This project showcases practical skills applicable to software development.
+
 ```bash
 python shapedb.py
