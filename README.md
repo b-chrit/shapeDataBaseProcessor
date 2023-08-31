@@ -37,5 +37,6 @@ git clone https://github.com/b-chrit/shapeDataBaseProcessor.git
 * The program provides informative messages for processing and interaction.
 * This project showcases practical skills applicable to software development.
 
+## Usage
 ```bash
 python shapedb.py
