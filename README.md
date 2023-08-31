@@ -19,6 +19,7 @@ The Shape Database Processor is an interactive Python application designed to re
 1. Clone this repository to your local machine.
 ```bash
 git clone https://github.com/b-chrit/shapeDataBaseProcessor.git
+```
 2. Make sure you have Python 3.x installed.
 3. Navigate to the repository directory.
 4. Place your shape database text file in the same directory.
